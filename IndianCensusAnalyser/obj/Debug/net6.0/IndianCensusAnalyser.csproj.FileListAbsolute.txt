@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\bin\Debug\net6.0\IndianCensusAnalyser.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\bin\Debug\net6.0\IndianCensusAnalyser.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\bin\Debug\net6.0\IndianCensusAnalyser.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\bin\Debug\net6.0\IndianCensusAnalyser.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\bin\Debug\net6.0\IndianCensusAnalyser.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\refint\IndianCensusAnalyser.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\IndianCensusAnalyser.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\IndianCensusAnalyser\IndianStateCensusAnalyser\IndianCensusAnalyser\obj\Debug\net6.0\ref\IndianCensusAnalyser.dll
